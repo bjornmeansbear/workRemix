@@ -26,3 +26,8 @@ What else needs to be pre-figured out?
 
 ## Related.
 Reduce/Reuce/Recycle -- I had some good prompts for that project.
+
+## Listening/Reading/Watching
+- Everything is a Remix: https://vimeo.com/139094998
+- Embrace the Remix: https://www.ted.com/talks/kirby_ferguson_embrace_the_remix
+- Cultural Cannibalism: https://en.wikipedia.org/wiki/Manifesto_Antrop%C3%B3fago & https://blogs.bard.edu/dmp/files/2011/11/Andrade_CannibalistManifesto.pdf
